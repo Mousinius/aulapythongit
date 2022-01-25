@@ -1,0 +1,5 @@
+base = input("base? ")
+base = float(base)
+altura = input("altura? ")
+altura = float(altura)
+print(base*altura)
